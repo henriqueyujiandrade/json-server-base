@@ -6,6 +6,46 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "teste@mail.com",
+      "password": "$2a$10$9dwmdspbZy/nbD3fUO98K.iQwtVf0Vd86RqvFEtzSTj.q/wnRlwAS",
+      "name": "joao",
+      "age": 38,
+      "id": 2
+    },
+    {
+      "email": "teste1@mail.com",
+      "password": "$2a$10$H/7VC1HDyYs4Kk4HVoux7OT7Hem/r.dqXxnRwMCscXs1yKH4rqmSa",
+      "name": "fernando",
+      "age": 38,
+      "id": 3
+    },
+    {
+      "email": "teste2@mail.com",
+      "password": "$2a$10$ddsW.YV0I4h6JbpsFgOhsuS5b05mg1lNxfn5.kPKaKXJILp0GRHDe",
+      "name": "rafael",
+      "age": 38,
+      "id": 4
+    }
+  ],
+  "group": [
+    {
+      "name": "Teste1Grupo",
+      "description": "teste de group",
+      "groupId": "8da51ca4-204f-4264-a9bb-989851c5aadb",
+      "userId": 2,
+      "membros": [],
+      "tasks": [],
+      "id": 1
+    }
+  ],
+  "chat": [
+    {
+      "description": "sei la to testando email 1",
+      "groupId": "8da51ca4-204f-4264-a9bb-989851c5aadb",
+      "userId": 2,
+      "id": 1
     }
   ]
 }
