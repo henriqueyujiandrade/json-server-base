@@ -34,9 +34,12 @@
       "name": "Teste1Grupo",
       "description": "teste de group",
       "groupId": "8da51ca4-204f-4264-a9bb-989851c5aadb",
-      "userId": 2,
-      "membros": [],
-      "tasks": [],
+      "membros": [{
+        "email": "teste@mail.com",
+        "name": "joao",
+        "id": 2,
+        "status": "admin"
+      }],
       "id": 1
     }
   ],
@@ -47,5 +50,6 @@
       "userId": 2,
       "id": 1
     }
-  ]
+  ],
+  "task":[]
 }
