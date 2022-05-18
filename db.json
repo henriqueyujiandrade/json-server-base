@@ -57,6 +57,71 @@
         }
       ],
       "id": 1
+    },
+    {
+      "name": "GrupoHenrique",
+      "description": "Grupo do Henrique",
+      "membros": [
+        {
+          "email": "henrique@mail.com",
+          "name": "henrique",
+          "id": 6,
+          "status": "admin"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "GrupoYasmin",
+      "description": "Grupo da Yasmin",
+      "membros": [
+        {
+          "email": "yasmin@mail.com",
+          "name": "yasmin",
+          "id": 7,
+          "status": "admin"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "GrupoIgor",
+      "description": "Grupo do Igor",
+      "membros": [
+        {
+          "email": "igor@mail.com",
+          "name": "igor",
+          "id": 8,
+          "status": "admin"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "GrupoJoão",
+      "description": "Grupo do João",
+      "membros": [
+        {
+          "email": "joao@mail.com",
+          "name": "joão",
+          "id": 5,
+          "status": "admin"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "GrupoMaykon",
+      "description": "Grupo do Maykon",
+      "membros": [
+        {
+          "email": "maykon@mail.com",
+          "name": "maykon",
+          "id": 10,
+          "status": "admin"
+        }
+      ],
+      "id": 6
     }
   ],
   "chat": [
