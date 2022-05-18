@@ -8,38 +8,54 @@
       "id": 1
     },
     {
-      "email": "teste@mail.com",
-      "password": "$2a$10$9dwmdspbZy/nbD3fUO98K.iQwtVf0Vd86RqvFEtzSTj.q/wnRlwAS",
-      "name": "joao",
-      "age": 38,
-      "id": 2
+      "email": "joao@mail.com",
+      "password": "$2a$10$HKi9TDaZZWrI9OjyHdpiwOKTDDhSM9mngPdtyCS96QMOjuZb6/NlK",
+      "name": "joão",
+      "id": 5
     },
     {
-      "email": "teste1@mail.com",
-      "password": "$2a$10$H/7VC1HDyYs4Kk4HVoux7OT7Hem/r.dqXxnRwMCscXs1yKH4rqmSa",
-      "name": "fernando",
-      "age": 38,
-      "id": 3
+      "email": "henrique@mail.com",
+      "password": "$2a$10$fe208pQpGqVT5KsgJLxLu.ecWX.8C8rxG06FcvgTVIe5ZhtjmIpcS",
+      "name": "henrique",
+      "id": 6
     },
     {
-      "email": "teste2@mail.com",
-      "password": "$2a$10$ddsW.YV0I4h6JbpsFgOhsuS5b05mg1lNxfn5.kPKaKXJILp0GRHDe",
-      "name": "rafael",
-      "age": 38,
-      "id": 4
+      "email": "yasmin@mail.com",
+      "password": "$2a$10$Ot5bLSXgar1opunKbvTo1.50CqVgBG5XsC4USeEBrYfB5jsaOevwG",
+      "name": "yasmin",
+      "id": 7
+    },
+    {
+      "email": "igor@mail.com",
+      "password": "$2a$10$tW5pDyRlbk7WhbxGQXwEtOQ.EOMIHAxmsyUqWylu7WZ7yZwt4/NRu",
+      "name": "igor",
+      "id": 8
+    },
+    {
+      "email": "valmir@mail.com",
+      "password": "$2a$10$PFwPcdt0x9i.xhvS1A/wRusAq/28WQaV229DJ.L2WnhUqDZF3LbjK",
+      "name": "valmir",
+      "id": 9
+    },
+    {
+      "email": "maykon@mail.com",
+      "password": "$2a$10$0BY.dVCKrd8V4cphj0WQpu78qeVePP8JSQB80UpD4PjRQJo/Kptlm",
+      "name": "maykon",
+      "id": 10
     }
   ],
   "group": [
     {
-      "name": "Teste1Grupo",
-      "description": "teste de group",
-      "groupId": "8da51ca4-204f-4264-a9bb-989851c5aadb",
-      "membros": [{
-        "email": "teste@mail.com",
-        "name": "joao",
-        "id": 2,
-        "status": "admin"
-      }],
+      "name": "GrupoValmir",
+      "description": "Grupo do Valmir",
+      "membros": [
+        {
+          "email": "valmir@mail.com",
+          "name": "valmir",
+          "id": 9,
+          "status": "admin"
+        }
+      ],
       "id": 1
     }
   ],
@@ -51,5 +67,5 @@
       "id": 1
     }
   ],
-  "task":[]
+  "task": []
 }
