@@ -412,6 +412,31 @@
 			}
 		],
 		"id": 5
+	},
+  {
+		"description": "subTarefa 01 henrique",
+		"taskId": 3,
+		"membro": [
+			{
+				"email": "henrique@mail.com",
+				"name": "henrique",
+				"id": 6
+			}
+		],
+		"id": 6
+	},
+  {
+		"description": "subTarefa 02 henrique",
+		"taskId": 4,
+		"membro": [
+			{
+				"email": "henrique@mail.com",
+				"name": "henrique",
+				"id": 6
+			}
+		],
+		"id": 7
 	}
+
  ]
 }
