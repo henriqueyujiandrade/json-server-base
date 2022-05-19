@@ -436,7 +436,54 @@
 			}
 		],
 		"id": 7
+	},
+  {
+		"description": "subTarefa 01 yasmin",
+		"taskId": 5,
+		"membro": [
+			{
+				"email": "yasmin@mail.com",
+				"name": "yasmin",
+				"id": 7
+			}
+		],
+		"id": 8
+	},
+  {
+		"description": "subTarefa 02 yasmin",
+		"taskId": 6,
+		"membro": [
+			{
+				"email": "yasmin@mail.com",
+				"name": "yasmin",
+				"id": 7
+			}
+		],
+		"id": 9
+	},
+  {
+		"description": "subTarefa 01 igor",
+		"taskId": 7,
+		"membro": [
+			{
+				"email": "igor@mail.com",
+				"name": "igor",
+				"id": 8
+			}
+		],
+		"id": 10
+	},
+  {
+		"description": "subTarefa 01 igor",
+		"taskId": 8,
+		"membro": [
+			{
+				"email": "igor@mail.com",
+				"name": "igor",
+				"id": 8
+			}
+		],
+		"id": 11
 	}
-
  ]
 }
