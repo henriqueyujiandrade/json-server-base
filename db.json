@@ -364,5 +364,54 @@
       "id": 19
     }
   ],
-  "subtask":[]
+  "subtask":[
+    {
+		"description": "subTarefa 01 valmir",
+		"taskId": 1,
+		"membro": [
+			{
+				"email": "valmir@mail.com",
+				"name": "valmir",
+				"id": 9
+			}
+		],
+		"id": 2
+	},
+	{
+		"description": "subTarefa 02 valmir",
+		"taskId": 1,
+		"membro": [
+			{
+				"email": "valmir@mail.com",
+				"name": "valmir",
+				"id": 9
+			}
+		],
+		"id": 3
+	},
+	{
+		"description": "2 subTarefa 01 valmir",
+		"taskId": 2,
+		"membro": [
+			{
+				"email": "valmir@mail.com",
+				"name": "valmir",
+				"id": 9
+			}
+		],
+		"id": 4
+	},
+	{
+		"description": "2 subTarefa 02 valmir",
+		"taskId": 2,
+		"membro": [
+			{
+				"email": "valmir@mail.com",
+				"name": "valmir",
+				"id": 9
+			}
+		],
+		"id": 5
+	}
+ ]
 }
