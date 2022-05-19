@@ -122,6 +122,84 @@
         }
       ],
       "id": 6
+    },
+    {
+      "name": "Meu Kenzie Entrega",
+      "description": "Sala individual",
+      "membros": [
+        {
+          "email": "maykon@mail.com",
+          "name": "maykon",
+          "id": 10,
+          "status": "admin"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "Meu Kenzie Entrega",
+      "description": "Sala individual",
+      "membros": [
+        {
+          "email": "joao@mail.com",
+          "name": "joão",
+          "id": 5,
+          "status": "admin"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "Meu Kenzie Entrega",
+      "description": "Sala individual",
+      "membros": [
+        {
+          "email": "igor@mail.com",
+          "name": "igor",
+          "id": 8,
+          "status": "admin"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "Meu Kenzie Entrega",
+      "description": "Sala individual",
+      "membros": [
+        {
+          "email": "yasmin@mail.com",
+          "name": "yasmin",
+          "id": 7,
+          "status": "admin"
+        }
+      ],
+      "id": 10
+    },
+    {      
+      "name": "Meu Kenzie Entrega",
+      "description": "Sala individual",
+      "membros": [
+        {
+          "email": "henrique@mail.com",
+          "name": "henrique",
+          "id": 6,
+          "status": "admin"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "Meu Kenzie Entrega",
+      "description": "Sala individual",
+      "membros": [
+        {
+          "email": "valmir@mail.com",
+          "name": "valmir",
+          "id": 9,
+          "status": "admin"
+        }
+      ],
+      "id": 12
     }
   ],
   "chat": [
