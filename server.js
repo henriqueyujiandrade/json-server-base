@@ -12,7 +12,8 @@ const rules = auth.rewriter({
   users: 640,
   group: 660,
   chat: 640,
-  task:660
+  task:660,
+  subtask:660
 });
 
 app.use(cors());
