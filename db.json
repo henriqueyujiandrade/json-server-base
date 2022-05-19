@@ -203,12 +203,52 @@
     }
   ],
   "chat": [
-    {
-      "description": "sei la to testando email 1",
-      "groupId": "8da51ca4-204f-4264-a9bb-989851c5aadb",
-      "userId": 2,
-      "id": 1
-    }
+    
+      {
+        "description": "Escrevam aqui os comentários",
+        "groupId": 1,
+        "userId": 9,
+        "name": "valmir",
+        "id": 1
+      },
+      {
+        "description": "Escrevam aqui os comentários",
+        "groupId": 2,
+        "userId": 6,
+        "name": "henrique",
+        "id": 2
+      },
+      {
+        "description": "Escrevam aqui os comentários",
+        "groupId": 3,
+        "userId": 7,
+        "name": "yasmin",
+        "id": 3
+      },
+      {
+        "description": "Escrevam aqui os comentários",
+        "groupId": 4,
+        "userId": 8,
+        "name": "igor",
+        "id": 4
+      },
+      {
+        "description": "Escrevam aqui os comentários",
+        "groupId": 5,
+        "userId": 5,
+        "name": "joão",
+        "id": 5
+      },
+      {
+        "description": "Escrevam aqui os comentários",
+        "groupId": 6,
+        "userId": 10,
+        "name": "maykon",
+        "id": 6
+      }
+
+
+    
   ],
   "task": [
     {
