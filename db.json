@@ -544,7 +544,78 @@
 			}
 		],
 		"id": 16
+	},
+  {
+		"description": "subTarefa ind joao",
+		"taskId": 14,
+		"membro": [
+			{
+				"email": "joao@mail.com",
+				"name": "joao",
+				"id": 5
+			}
+		],
+		"id": 17
+	},
+  {
+		"description": "subTarefa ind igor",
+		"taskId": 15,
+		"membro": [
+			{
+				"email": "igor@mail.com",
+				"name": "igor",
+				"id": 8
+			}
+		],
+		"id": 18
+	},
+  {
+		"description": "subTarefa ind yasmin",
+		"taskId": 16,
+		"membro": [
+			{
+				"email": "yasmin@mail.com",
+				"name": "yasmin",
+				"id": 7
+			}
+		],
+		"id": 19
+	},
+  {
+		"description": "subTarefa ind2 yasmin",
+		"taskId": 17,
+		"membro": [
+			{
+				"email": "yasmin@mail.com",
+				"name": "yasmin",
+				"id": 7
+			}
+		],
+		"id": 20
+	},
+  {
+		"description": "subTarefa ind henrique",
+		"taskId": 18,
+		"membro": [
+			{
+				"email": "henrique@mail.com",
+				"name": "henrique",
+				"id": 6
+			}
+		],
+		"id": 21
+	},
+  {
+		"description": "subTarefa ind valmir",
+		"taskId": 19,
+		"membro": [
+			{
+				"email": "valmir@mail.com",
+				"name": "valmir",
+				"id": 9
+			}
+		],
+		"id": 22
 	}
-
  ]
 }
